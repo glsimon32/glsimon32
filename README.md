@@ -39,6 +39,23 @@ The project demonstrates:
 
 Repository: [axentra-enterprise-bi-architecture](https://github.com/glsimon32/axentra-enterprise-bi-architecture)
 
+### SkillNyx Platform Architecture
+
+A sanitized architecture blueprint for SkillNyx, a skill-first AI-powered learning, coding, assessment, and talent intelligence platform.
+
+The project demonstrates:
+
+- Skill-first product strategy
+- AI-assisted learning architecture
+- Assessment and coding lab design
+- Skill report and trust score concepts
+- Enterprise workspace model
+- Talent intelligence ecosystem
+- Secure code execution principles
+- SaaS platform architecture
+
+Repository: [skillnyx-platform-architecture](https://github.com/glsimon32/skillnyx-platform-architecture)
+
 ---
 
 ## Leadership Philosophy
