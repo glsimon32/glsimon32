@@ -23,22 +23,6 @@ My work focuses on combining **business strategy, product execution, cloud archi
 
 ## Featured Work
 
-### Axentra Enterprise BI Architecture
-
-A sanitized enterprise architecture blueprint for an Agentic AI-powered centralized business intelligence platform.
-
-The project demonstrates:
-
-- Cross-system KPI intelligence
-- Enterprise application integration
-- Agentic AI insight layer
-- AI governance principles
-- Security and observability model
-- Cloud and cost optimization thinking
-- Executive decision-support architecture
-
-Repository: [axentra-enterprise-bi-architecture](https://github.com/glsimon32/axentra-enterprise-bi-architecture)
-
 ### SkillNyx Platform Architecture
 
 A sanitized architecture blueprint for SkillNyx, a skill-first AI-powered learning, coding, assessment, and talent intelligence platform.
@@ -55,6 +39,22 @@ The project demonstrates:
 - SaaS platform architecture
 
 Repository: [skillnyx-platform-architecture](https://github.com/glsimon32/skillnyx-platform-architecture)
+
+### Axentra Enterprise BI Architecture
+
+A sanitized enterprise architecture blueprint for an Agentic AI-powered centralized business intelligence platform.
+
+The project demonstrates:
+
+- Cross-system KPI intelligence
+- Enterprise application integration
+- Agentic AI insight layer
+- AI governance principles
+- Security and observability model
+- Cloud and cost optimization thinking
+- Executive decision-support architecture
+
+Repository: [axentra-enterprise-bi-architecture](https://github.com/glsimon32/axentra-enterprise-bi-architecture)
 
 ---
 
