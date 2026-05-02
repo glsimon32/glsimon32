@@ -73,6 +73,23 @@ The project demonstrates:
 
 Repository: [pdf-accessibility-ai-architecture](https://github.com/glsimon32/pdf-accessibility-ai-architecture)
 
+### NyxTrader AI Wealth Architecture
+
+A sanitized architecture blueprint for NyxTrader, an AI-powered wealth intelligence, paper trading, strategy learning, and portfolio decision-support platform.
+
+The project demonstrates:
+
+- AI-powered wealth intelligence architecture
+- Paper-first strategy learning model
+- Portfolio command center concept
+- Strategy rank and paper P&L tracking
+- Equity, options, and mutual fund intelligence
+- Human-in-the-loop decision control
+- Risk governance and AI governance
+- Financial compliance-aware product architecture
+
+Repository: [nyxtrader-ai-wealth-architecture](https://github.com/glsimon32/nyxtrader-ai-wealth-architecture)
+
 ---
 
 ## Leadership Philosophy
