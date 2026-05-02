@@ -37,7 +37,7 @@ The project demonstrates:
 - Cloud and cost optimization thinking
 - Executive decision-support architecture
 
-Repository: `axentra-enterprise-bi-architecture`
+Repository: [axentra-enterprise-bi-architecture](https://github.com/glsimon32/axentra-enterprise-bi-architecture)
 
 ---
 
@@ -64,6 +64,7 @@ My approach combines:
 SkillNyx is a skill-first learning and talent ecosystem designed to help learners prove real capabilities through assessments, code labs, AI-powered learning, project-based tracks, and skill reports.
 
 Website: https://www.skillnyx.com
+GitHub: https://github.com/glsimon32
 
 ---
 
