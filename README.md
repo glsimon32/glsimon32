@@ -56,6 +56,23 @@ The project demonstrates:
 
 Repository: [axentra-enterprise-bi-architecture](https://github.com/glsimon32/axentra-enterprise-bi-architecture)
 
+### PDF Accessibility AI Architecture
+
+A sanitized architecture blueprint for an AI-powered PDF/UA and WCAG accessibility automation platform.
+
+The project demonstrates:
+
+- Enterprise document accessibility automation
+- PDF/UA and WCAG remediation architecture
+- AI document understanding concepts
+- Accessibility tagging workflow
+- Human-in-the-loop QA model
+- High-volume batch processing design
+- Security and governance for sensitive documents
+- Compliance-oriented product architecture
+
+Repository: [pdf-accessibility-ai-architecture](https://github.com/glsimon32/pdf-accessibility-ai-architecture)
+
 ---
 
 ## Leadership Philosophy
