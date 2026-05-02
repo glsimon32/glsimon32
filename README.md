@@ -56,6 +56,23 @@ The project demonstrates:
 
 Repository: [axentra-enterprise-bi-architecture](https://github.com/glsimon32/axentra-enterprise-bi-architecture)
 
+### AI Health Platform Architecture
+
+A sanitized architecture blueprint for an AI Health Platform connecting patient, provider, payer, claims, prior authorization, and admin operations across US Healthcare IT workflows.
+
+The project demonstrates:
+
+- Patient, provider, payer, and admin workflow intelligence
+- Claims timeline and RCM workflow architecture
+- Prior authorization copilot model
+- Provider documentation assistant concept
+- FHIR, HL7, and EDI interoperability awareness
+- PHI-safe AI design
+- HIPAA-aware security and governance
+- Human-in-the-loop healthcare AI architecture
+
+Repository: [ai-health-platform-architecture](https://github.com/glsimon32/ai-health-platform-architecture)
+
 ### PDF Accessibility AI Architecture
 
 A sanitized architecture blueprint for an AI-powered PDF/UA and WCAG accessibility automation platform.
